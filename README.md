@@ -7,3 +7,5 @@ Performing analysis on Kickstarter data to uncover trends
 ---
 ## Full Report
 [Workbook](https://github.com/crkaide/kickstarter-analysis/blob/main/data-1-1-3-StarterBook.xlsx?raw=true)
+### Recommendations
+1. Get play produced for less than £4,000
