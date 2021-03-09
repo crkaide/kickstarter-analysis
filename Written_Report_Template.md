@@ -8,7 +8,11 @@
 
 ### Analysis of Outcomes Based on Launch Date
 
+![Theater_Outcomes_vs_Launch.png](https://github.com/crkaide/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png?raw=true)
+
 ### Analysis of Outcomes Based on Goals
+
+![Outcomes_vs_Goals.png](https://github.com/crkaide/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png?raw=true)
 
 ### Challenges and Difficulties Encountered
 
