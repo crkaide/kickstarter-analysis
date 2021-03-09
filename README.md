@@ -1,8 +1,7 @@
-# REPORT: Launch Date and Funding Goals analysis
-# "Fever" (a play) by Louise
+# Launch Date and Funding Goals analysis for "Fever" (a play) by Louise
 
 ## Overview of Project
-Following analysis of the success of various Kickstarter campaigns based on their category (e.g., food, music, theater), as well as identifying seasonal trends, 
+Following analysis of the success of various Kickstarter campaigns based on their category (e.g., food, music, theater) as well as seasonal trends, Louise 
 
 ### Purpose
 The purpose of this analysis is to project 
