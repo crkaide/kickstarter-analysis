@@ -1,8 +1,11 @@
-# Kickstarting with Excel
+# REPORT: Goals and Launch Date analysis
+# "Fever" by Louise
 
 ## Overview of Project
+Following analysis of the success of various Kickstarter campaigns based on their category (e.g., food, music, theater), as well as identifying seasonal trends, 
 
 ### Purpose
+The purpose of this analysis is to project 
 
 ## Analysis and Challenges
 
