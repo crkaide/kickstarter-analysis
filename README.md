@@ -30,7 +30,7 @@ No significant challenges or difficulties were encountered in preparing this rep
 
 ### Outcomes Based on Goal
 1. The greatest share of successful campaigns are either low-budget  (<$1,000) or relatively high-budget ($35,000-44,999).
-2. Success declines and failure rises as the budget increases from $1,000 until there is a sharp increase in share of successful campaigns at $35,0000.
+2. Success declines and failure rises as the budget increases from $1,000 until there is a sharp increase in share of successful campaigns at $35,000.
 3. Percentage successful and failed are inversely proportionally related, while canceled does not appear to be impacted by the fundraising goal.
 
 ### Limitations
