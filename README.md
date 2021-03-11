@@ -31,7 +31,7 @@ No significant challenges or difficulties were encountered in preparing this rep
 ### Outcomes Based on Goal
 1. The greatest share of successful campaigns are either low-goal  (<$1,000) or relatively high-goal ($35,000-44,999).
 2. Success declines and failure rises as the goal increases from $1,000 until there is a sharp increase in share of successful campaigns at $35,000.
-3. Percentage successful and failed are inversely proportionally related, while canceled does not appear to be impacted by the fundraising goal.
+3. Percentage successful and failed are inversely proportionally related, while "canceled" does not appear to be impacted by the fundraising goal.
 
 ### Limitations
 The greatest limitation of this data set is its age, particularly insofar as all records pre-date Dec. '19.  Therefore, we cannot take into account the impact of COVID-19.  There is also significant disparity between the counts of available data points for each year (MIN=14 in 2009, MAX=1225 in 2015, most recent year reported is 2017 with 157 records).  Data from three years--2014, 2015, and 2016--could have a disproportionate impact on some results based on the volume of records contained in these three years (3151 records) against the volume contained in the six other years in the data set (963 records).
